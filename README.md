@@ -45,6 +45,21 @@
 
 ---
 
+## 📁 Folder Structure
+```
+reestate/
+├── contracts/            
+├── script/               
+├── frontend/             
+│   ├── components/
+│   ├── pages/
+│   └── web3/             
+├── public/               
+├── .env                 
+└── README.md   
+
+```
+
 ## 🏗 Architecture
 
 ```text
