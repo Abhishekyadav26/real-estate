@@ -4,7 +4,7 @@
 
 **ReEstate** is a decentralized platform that enables tokenization of real estate assets using blockchain technology. It allows fractional ownership, automated rental income distribution, and secure on-chain property trading, bringing transparency, liquidity, and accessibility to real estate investment.
 
-## link for flowscan
+## link for lineascan
 
  [(https://sepolia.lineascan.build/address/0x046704eC64349B42Ef0f49379c97Cb56248e46ab)](https://sepolia.lineascan.build/address/0x046704eC64349B42Ef0f49379c97Cb56248e46ab)
 
