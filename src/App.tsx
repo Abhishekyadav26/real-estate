@@ -27,6 +27,7 @@ import { AddVerifierForm } from "./components/AddVerifierForm";
 import { RemoveVerifierForm } from "./components/RemoveVerifierForm";
 
 import { PropertyGrid } from "./components/PropertyGrid";
+import { HeroVideo } from "./components/videodemo";
 
 // Create a theme instance
 const theme = createTheme({
@@ -332,6 +333,8 @@ const HomePage = ({
           </Button>
         </Box>
       </Box>
+
+      <HeroVideo />
 
       {/* Features Section */}
       <Box sx={{ mb: 6 }}>
