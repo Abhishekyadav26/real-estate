@@ -344,6 +344,7 @@ const HomePage = ({
           gutterBottom
           align="center"
           sx={{ mb: 4 }}
+          className="pt-4"
         >
           Why Choose Tokenized Real Estate
         </Typography>
